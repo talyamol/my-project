@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z7JFYv1afLJMIrMOKZk+XEljtRjmeRkiXEhI4Y6dzM8=",
+  "Source": "EventHalls",
+  "BasePath": "_content/EventHalls",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
